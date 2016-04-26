@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ca.edumedia.abcd0001.myApp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ca.edumedia.abcd0001.myApp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ca.edumedia.abcd0001.myApp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.edumedia.abcd0001.myApp"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "ca.edumedia.abcd0001.myApp"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "ca.edumedia.abcd0001.myApp"
+        }
+    },
+    "dependent_plugins": {}
+}

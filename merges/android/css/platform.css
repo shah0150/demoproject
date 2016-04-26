@@ -1,0 +1,39 @@
+
+body
+{
+    background-color: white;
+    font-size:17pt;
+    padding:8pt;
+    margin:8pt;
+}
+.header-bar{
+    background-color: #EFEFF4;
+    color:black;
+    font-size:20pt;
+    height:64pt;
+}
+[data-role="page"]{
+    background-color:white;
+    font-size:17pt;
+}
+[data-role="page"] h1
+{
+    font-size:20pt;
+}
+#nav{
+    background-color:#EFEFF4;
+    height:44pt;
+}
+.fab{
+    background-color: #006064;
+}
+.btn{
+    background-color: #006064;
+    font-size:14px;    
+}
+.modal-step h2{
+    background-color: #00BCD4;
+}
+.modal-step{
+    background-color:#B2EBF2;
+}
